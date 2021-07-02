@@ -1,0 +1,182 @@
+/*#39A2DB*/
+
+
+*{
+margin: 0;
+margin-right: 4.5rem;
+margin-left: 5rem;
+padding: 0;
+font-family: 'Roboto', sans-serif;
+}
+
+span,div,td,table,br,img{
+    margin: 0;
+    padding: 0;
+}
+
+.center{
+    text-align: center;
+}
+
+.blue{
+    color: #39A2DB;
+}
+
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+ 
+    background-image: linear-gradient(to left bottom, #fb9fe2, #ff97b8, #ff9f83, #ffb74f, #e0d431, #b9e248, #8aee6b, #41f794, #30f9b0, #31fbc8, #44fbdc, #5ffbec);
+
+}
+
+.BannerBg{
+    width: 100%;
+    display: flex;
+    background-color: white;
+}    
+
+.vertical {
+    margin-top: 20px;
+    border-left: 2px dashed #39A2DB;
+    height: 1230px;
+    position:absolute;
+    left: 50%;
+    background-color: white;
+    margin-right: 30px;
+
+}
+
+.left{
+   
+    background-color: white;
+    width: 50%;
+    margin-top: 20px;
+}
+
+.right{
+    
+    background-color: white;
+     width:50% ;
+     margin-top: 29px;  
+     
+       
+}
+
+.portion{
+    font-size: 2.7rem;
+    color: #042f66;
+    margin-left: 47px;
+}
+
+.portionPara{
+    margin: 0;
+    color: #39A2DB;
+    margin-left: 47px;
+    font-size: 20px;
+    
+    position: static;
+}
+
+.image{
+    
+    height: 12vh;
+    width: 12vh;
+    margin: 0;
+    padding-left: 25px;
+}
+
+.image1{
+    height: 17vh;
+    padding-left: 2rem;
+    z-index: 1;
+}
+
+.img1{
+    padding-left: 42px;
+    height: 25vh;
+    width: 22vh;
+    padding-right: 10px;
+}
+
+.img2{
+    height: 16vh;
+    width: 23vh;
+    padding-right: 10px;
+}
+
+.img3{
+    height: 25vh;
+    width: 25vh;
+}
+
+.veg{
+    height: 13vh;
+    width: 20vh;
+}
+
+.milk{
+    height: 19vh;
+    width: 20vh;
+}
+
+.pizza{
+    height: 19vh;
+    width: 15vh;
+}
+
+.diabetes{
+    height: 15vh;
+    width: 12vh;
+}
+
+.heart{
+    height: 11vh;
+    width: 12vh;
+}
+
+.cancer{
+    height: 15vh;
+    width: 12vh;
+}
+
+.near{
+    font-size: 1.8rem;
+    color: #042f66;
+    margin-left: 47px;
+}
+
+.gender{
+    color: gold;
+    font-size: 2rem;
+    margin-top: 35px;
+    padding-left: 185px;
+}
+
+.man{
+    height: 9vh;
+    width: 5vh;
+}
+
+.gen{
+    color: gold;
+    font-size: 2rem;
+    margin-top: 5px;
+    padding-left: 185px;
+}
+
+.final{
+    margin-top: 41px;
+    margin-left: 15px;
+}
+
+.people{
+    color: gold;
+    font-size: 25px;
+    padding-left: 47px;
+}
+
